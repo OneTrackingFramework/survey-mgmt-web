@@ -27,7 +27,7 @@
     "react-dropzone": "^11.0.1",
     "react-scripts": "^2.1.5",
     "react-sortable-tree": "^2.8.0",
-    "xlsx": "^0.16.2"
+    "xlsx": "^0.17.0"
   },
   "browserslist": [
     ">0.2%",
